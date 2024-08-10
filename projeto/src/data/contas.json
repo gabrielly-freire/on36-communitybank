@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "idCliente": 5000,
+    "saldo": 1,
+    "limite": 500
+  },
+  {
+    "id": 2,
+    "idCliente": 5000,
+    "saldo": 1,
+    "taxa": 0.05
+  }
+]
